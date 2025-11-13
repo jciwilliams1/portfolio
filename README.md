@@ -16,7 +16,7 @@
 
 ## Projects
 ### SQL Fundamentals for Real-World Data Analysis
-[SQL Techniques Collection](https://github.com/jciwilliams1/SQL_Techinques)
+[SQL Fundamentals for Data Analysis](https://github.com/jciwilliams1/SQL_Techinques)
 
 A collection of real-world SQL scenarios that focus on essential skills such as selecting data, filtering rows, sorting results, and creating simple calculated fields. This project helps build confidence by applying SQL concepts to realistic business situations.
 
