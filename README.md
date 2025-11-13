@@ -25,5 +25,5 @@ A collection of real-world SQL scenarios that focus on essential skills such as 
 [Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/williams-janelle/)
-[GitHub](https://github.com/jciwilliams1)
+- [LinkedIn](https://www.linkedin.com/in/williams-janelle/)
+- [GitHub](https://github.com/jciwilliams1)
