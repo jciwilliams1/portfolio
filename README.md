@@ -21,6 +21,9 @@ A collection of real-world SQL scenarios that focus on essential skills such as 
 <p align="center">
 <img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
 
+## Certifications
+- [Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/williams-janelle/)
 - [GitHub](https://github.com/jciwilliams1)
