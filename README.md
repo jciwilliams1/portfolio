@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Power BI, Excel, Scrum Master
+#### Technical Skills: SQL, Power BI, Excel
 
 ## Education
 - B.S., Computer Science | Kennesaw State University (_May 2023_)
