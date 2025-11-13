@@ -18,6 +18,7 @@
 
 A collection of real-world SQL scenarios that focus on essential skills such as selecting data, filtering rows, sorting results, and creating simple calculated fields. This project helps build confidence by applying SQL concepts to realistic business situations.
 
+###
 <p align="center">
 <img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
 <br />
