@@ -12,7 +12,7 @@
 **Data Analytics, SQL Instructor @ eXcelerate (_June 2024 - Present_)**
 - Foster comprehensive understanding of SQL, Power BI, and Excel by guiding hands-on interactive workshops, assisting students with mastering analytics concepts, grading assessments, and ensuring effective communication and reliability.
 
-## Projects
+## Data Analytics Projects
 ### SQL Fundamentals for Real-World Data Analysis
 [SQL Fundamentals for Data Analysis](https://github.com/jciwilliams1/SQL_Techinques)
 
