@@ -6,13 +6,11 @@
 - B.S., Computer Science | Kennesaw State University (_May 2023_)
 
 ## Work Experience
-**Data Analyst @ iTHINK Financial Services (_January 2025 - Present_)**
-- TBD
-- TBD
+**IT Data Reporting Analyst @ iTHINK Financial Services (_January 2025 - Present_)**
+- Utilized Excel, Power BI, and SQL to perform advanced data modeling and visualization, streamline reporting processes, and drive operational efficiency through real-time insights and continuous process optimization.
 
-**Data Analytics Instructor @ eXcelerate (_June 2024 - Present_)**
+**Data Analytics, SQL Instructor @ eXcelerate (_June 2024 - Present_)**
 - Foster comprehensive understanding of SQL, Power BI, and Excel by guiding hands-on interactive workshops, assisting students with mastering analytics concepts, grading assessments, and ensuring effective communication and reliability.
-- TBD
 
 ## Projects
 ### SQL Fundamentals for Real-World Data Analysis
