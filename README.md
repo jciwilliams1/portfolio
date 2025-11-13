@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Power BI, Excel
+### Technical Skills: SQL, Power BI, Excel
 
 ## Education
 - B.S., Computer Science | Kennesaw State University (_May 2023_)
@@ -18,14 +18,12 @@
 
 A collection of real-world SQL scenarios that focus on essential skills such as selecting data, filtering rows, sorting results, and creating simple calculated fields. This project helps build confidence by applying SQL concepts to realistic business situations.
 
-###
 <p align="center">
 <img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
-<br />
 
 ## Certifications
-- [Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
+[Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/williams-janelle/)
-- [GitHub](https://github.com/jciwilliams1)
+[LinkedIn](https://www.linkedin.com/in/williams-janelle/)
+[GitHub](https://github.com/jciwilliams1)
